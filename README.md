@@ -27,83 +27,106 @@ Agora, estou em busca do meu primeiro estágio pra aplicar o que aprendi, me des
 
 ---
 
-### 📚 Conhecimentos
+### 🛠️ Linguagens e Ferramentas
 
 
 <img 
     align="left" 
     alt="Kali Linux"
-    title="Kali Linux" 
-    width="100px" 
+    title="RED HAT" 
+    width="60px" 
     style="padding-right: 10px;" 
-    src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original-wordmark.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Linux"
+    title="Linux" 
+    width="60px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
 
 <img 
     align="left" 
     alt="Kali Linux"
-    title="Kali Linux" 
-    width="100px" 
+    title="Windows11" 
+    width="60px" 
     style="padding-right: 10px;" 
-    src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" 
 />
 
 <img 
     align="left" 
     alt="Kali Linux"
-    title="Kali Linux" 
-    width="100px" 
+    title="Python" 
+    width="60px" 
     style="padding-right: 10px;" 
-    src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
 <img 
     align="left" 
     alt="Kali Linux"
-    title="Kali Linux" 
-    width="100px" 
+    title="HTML5" 
+    width="60px" 
     style="padding-right: 10px;" 
-    src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" 
 />
 
 <img 
     align="left" 
     alt="Kali Linux"
-    title="Kali Linux" 
-    width="100px" 
+    title="MYSQL" 
+    width="60px" 
     style="padding-right: 10px;" 
-    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" 
-/>
-<img 
-    align="left" 
-    alt="Kali Linux"
-    title="Kali Linux" 
-    width="100px" 
-    style="padding-right: 10px;" 
-    src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 
 <img 
     align="left" 
     alt="Kali Linux"
-    title="Kali Linux" 
-    width="100px" 
+    title="POSTGRESQL" 
+    width="60px" 
     style="padding-right: 10px;" 
-    src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Kali Linux"
+    title="APACHE" 
+    width="60px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Kali Linux"
+    title="JS" 
+    width="60px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
     align="left" 
     alt="Kali Linux"
-    title="Kali Linux" 
-    width="100px" 
+    title="C++" 
+    width="60px" 
     style="padding-right: 10px;" 
-    src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
 />
 
-
-
-
-
+<img 
+    align="left" 
+    alt="Kali Linux"
+    title="GIT" 
+    width="60px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
 
 <br/>
 <br/>
