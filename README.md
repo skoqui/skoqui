@@ -1,4 +1,4 @@
- ☠️🔥 Eduardo Scoqui
+ ☠️🔥 skoqui
 
 **`Cybersecurity Student - Pentester - Red Team`**
 
@@ -16,13 +16,6 @@ Agora, estou em busca do meu primeiro estágio pra aplicar o que aprendi, me des
             src="https://img.shields.io/badge/TryHackMe-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/in/skoqui/">
-        <img 
-            alt="Linkedin" 
-            title="Me segue lá!" 
-            src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=microsoft-access&logoColor=white"
-        />
-    </a> 
 
 
 ---
