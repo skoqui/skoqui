@@ -27,7 +27,7 @@ Agora, estou em busca do meu primeiro estágio pra aplicar o que aprendi, me des
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 📚 Conhecimentos
 
 
 <img 
