@@ -115,7 +115,7 @@ Agora, estou em busca do meu primeiro estágio pra aplicar o que aprendi, me des
 <img 
     align="left" 
     alt="Kali Linux"
-    title="GIT" 
+    title="GITHUB" 
     width="60px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
