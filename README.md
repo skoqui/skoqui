@@ -2,11 +2,23 @@
 
 **`Cybersecurity Student - Pentester - Red Team`**
 
-Sou estudante do primeiro ano de Segurança da Informação (Tecnólogo - UNIP - 2024/2026), mas minha história em TI começou lá em 2004, quando, por curiosidade, passei a resolver, instalar, formatar e configurar tudo por conta própria. Sempre gostei de entender como as coisas funcionam e encontrar soluções, mas morar no interior, onde a área era pouco explorada, acabou adiando minha entrada no mercado.
+🎓 Estudante de Segurança da Informação (Tecnólogo - UNIP 2024/2026) 
 
-Tenho uma certa facilidade para aprender, especialmente nas áreas que mais me interessam: redes, sistemas operacionais (Windows e Linux) e Cibersegurança. Já estudei Pentest, OSINT, Engenharia Social, SQL, Python e muito mais, mas, sempre buscando me desafiar pra aprender na prática.
+💻 Minha história em TI começou em 2004, quando a curiosidade me levou a aprender a resolver, instalar e configurar sistemas por conta própria. Sempre fui movido pela curiosidade e vontade de entender como as coisas funcionam e encontrar soluções.
 
-Agora, estou em busca do meu primeiro estágio pra aplicar o que aprendi, me desenvolver e, claro, contribuir. Gosto de resolver problemas e acredito que aprender fazendo é o melhor caminho.
+⚡ Áreas de Interesse e Estudos:
+
+• Redes e Sistemas Operacionais (Linux e Windows)
+
+• Cibersegurança: Red Hat, Offensive Hacking, Pentest, OSINT, Engenharia Social
+
+• Desenvolvimento: Python, SQL, JS, C++ e mais
+
+🚀 Atualmente, busco meu primeiro estágio para aplicar na prática tudo o que venho estudando e continuar evoluindo. Acredito que o aprendizado prático é essencial para o crescimento.
+
+📚 Sempre curioso e estudando, sou apaixonado por Offensive Hacking e Forense Digital.
+
+<br/>
 
 <p align="left">
     <a href="https://tryhackme.com/r/p/skoqui">
