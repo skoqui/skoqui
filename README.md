@@ -14,7 +14,7 @@
 
 • Desenvolvimento: Python, SQL, JS, C++ e mais
 
-🚀 Atualmente, busco meu primeiro estágio para aplicar na prática tudo o que venho estudando e continuar evoluindo. Acredito que o aprendizado prático é essencial para o crescimento.
+🚀 Atualmente, busco meu primeiro estágio para aplicar na prática tudo o que venho estudando e continuar evoluindo.
 
 📚 Sempre curioso e estudando, sou apaixonado por Offensive Hacking e Forense Digital.
 
