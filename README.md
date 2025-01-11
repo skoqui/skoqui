@@ -74,6 +74,15 @@
 <img 
     align="left" 
     alt="Kali Linux"
+    title="Bash" 
+    width="60px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Kali Linux"
     title="HTML5" 
     width="60px" 
     style="padding-right: 10px;" 
