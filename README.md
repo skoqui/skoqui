@@ -141,9 +141,5 @@
 <br/>
 <br/>
 <br/>
-<div>
-  
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=skoqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="right" height="150" alt="coding-time" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
-</div>
+
 <br>
