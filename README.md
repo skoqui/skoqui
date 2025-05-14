@@ -12,7 +12,7 @@
 
 • Cibersegurança: Red Hat, Offensive Hacking, Pentest, OSINT, Engenharia Social
 
-• Desenvolvimento: Python, SQL, JS, C++ e mais
+• Desenvolvimento: Python
 
 🚀 Atualmente, busco meu primeiro estágio para aplicar na prática tudo o que venho estudando e continuar evoluindo.
 
