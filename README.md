@@ -10,7 +10,7 @@
 
 • Redes e Sistemas Operacionais (Linux e Windows)
 
-• Cibersegurança: Red Hat, Offensive Hacking, Pentest, OSINT, Engenharia Social
+• Cibersegurança: DFIR, Purple Hat, Offensive Hacking, Pentest, OSINT, Engenharia Social
 
 • Desenvolvimento: Python
 
