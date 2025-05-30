@@ -1,6 +1,6 @@
  ☠️🔥 skoqui
 
-**`Cybersecurity Student - Pentester - Red Team`**
+**`Cybersecurity Student - FORENSE DIGITAL `**
 
 🎓 Estudante de Segurança da Informação (Tecnólogo - UNIP 2024/2026) 
 
