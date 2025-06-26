@@ -144,7 +144,7 @@
 <div>
  
   <img align="right" height="150" alt="coding-time" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3434304" style='border:none;'></iframe>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/skoqui.png" alt="Your Image Badge" />
 
 </div>
 
