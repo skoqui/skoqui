@@ -2,21 +2,7 @@
 
 **`Cybersecurity Student - FORENSE DIGITAL `**
 
-🎓 Estudante de Segurança da Informação (Tecnólogo - UNIP 2024/2026) 
-
-💻 Minha história em TI começou em 2004, quando a curiosidade me levou a aprender a resolver, instalar e configurar sistemas por conta própria. Sempre fui movido pela curiosidade e vontade de entender como as coisas funcionam e encontrar soluções.
-
-⚡ Áreas de Interesse e Estudos:
-
-• Redes e Sistemas Operacionais (Linux e Windows)
-
-• Cibersegurança: DFIR, Purple Hat, Offensive Hacking, Pentest, OSINT, Engenharia Social
-
-• Desenvolvimento: Python
-
-🚀 Atualmente, busco meu primeiro estágio para aplicar na prática tudo o que venho estudando e continuar evoluindo.
-
-📚 Sempre curioso e estudando, sou apaixonado por Offensive Hacking e Forense Digital.
+print("Hello, World")
 
 <br/>
 
