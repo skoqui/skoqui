@@ -1,6 +1,6 @@
  ☠️🔥 skoqui
 
-**`Cybersecurity Student - FORENSE DIGITAL `**
+**`Cybersecurity Student`**
 
 print("Hello, World")
 
