@@ -2,7 +2,8 @@
 
 **`Cybersecurity Student`**
 
-print("Hello, World")
+print("Think like an attacker.")
+
 
 <br/>
 
