@@ -2,7 +2,8 @@
 
 **`Cybersecurity Student`**
 
-print("Think like an attacker.")
+$ whoami
+> security enthusiast
 
 
 <br/>
