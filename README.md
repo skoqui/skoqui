@@ -1,6 +1,4 @@
- ☠️🔥 skoqui
-
-**`Cybersecurity Student`**
+### **`Cybersecurity Student`**
 
 $ whoami
 > security enthusiast
