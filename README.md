@@ -8,14 +8,7 @@ $ whoami
 
 <br/>
 
-<p align="left">
-    <a href="https://tryhackme.com/r/p/skoqui">
-        <img 
-            alt="TryHackMe" 
-            title="Vamos Jogar!" 
-            src="https://img.shields.io/badge/TryHackMe-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white"
-        />
-    </a>
+
 
 
 ---
