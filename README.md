@@ -5,14 +5,13 @@ $ whoami
 > security enthusiast
 ```
 
-<br/>
+
 
 
 
 
 ---
-
-### 🛠️ Linguagens e Ferramentas
+### Linguagens e Ferramentas
 
 
 <img 
