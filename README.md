@@ -8,7 +8,6 @@ $ whoami
 <br/>
 
 `Knowledge is a public good.`
-> "O conhecimento só é útil quando é partilhado. O que é bom deve ser público."
 
 
 <br/>
