@@ -7,6 +7,11 @@ $ whoami
 <br>
 <br/>
 
+
+<img width="1774" height="887" alt="eeefe3cd-b532-486e-8385-d1e1888a74e6" src="https://github.com/user-attachments/assets/691b9b0b-8b6f-4fd4-80fc-3f3f17df6b4b" />
+
+
+
 `Knowledge is a public good.`
 
 
